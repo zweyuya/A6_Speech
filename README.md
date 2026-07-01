@@ -1,6 +1,6 @@
 # A6: Speech Processing — Submission
 
-**Student:** Sora (st125990)
+**Student:** Zwe Yu Ya Kyaw Zin Oo (st125990)
 
 This repository contains the training/inference script (`run.py`), the full exercises notebook (`A6_Speech_Processing_Exercises.ipynb`), and this README with results, visualizations, and discussion for Exercises 1–4.
 
@@ -134,13 +134,11 @@ In practice, my results fell short of that ideal: similarities clustered in the 
 
 ## Visualizations
 
-- `ctc_greedy_decoding_and_cer.png` — CTC greedy decoding grid + character error rate curve (Part 3 / Exercise 2)
-- `wav2vec2_vs_mel_probe.png` — wav2vec2 vs. mel-spectrogram linear probe comparison + t-SNE plot (Part 4 / Exercise 3)
-- `voice_clone_mel_grid.png` — Mel spectrogram grid: same cloned voice across 4 accents (Part 5.4)
-- `tokenization_comparison.png` — Tokenization comparison: NLP tokens vs. speech chars vs. accent tokens (Part 1)
+### CTC greedy decoding grid + character error rate curve (Part 3 / Exercise 2)
+![CTC Greeding Decoding](figures/grid.png)
 
-*(All four are generated inline by the corresponding cells in `A6_Speech_Processing_Exercises.ipynb`; exported copies are included in this repo under `figures/`.)*
-
+### CTC character error rate curve
+![CTC Error Curve](figures/error curve.png)
 ---
 
 ## Discussion
