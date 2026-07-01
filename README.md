@@ -1,6 +1,6 @@
 # A6: Speech Processing — Submission
 
-**Student:** Sora (st125990)
+**Student:** Zwe Yu Ya Kyaw Zin Oo (st125990)
 
 This repository contains the training/inference script (`run.py`), the full exercises notebook (`A6_Speech_Processing_Exercises.ipynb`), and this README with results, visualizations, and discussion for Exercises 1–4.
 
