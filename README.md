@@ -115,6 +115,8 @@ Accuracy dropped 11.8 points, but **not proportionally** to the 50% increase in 
 | india | 1.72 | 0.0375 | 1880.8 Hz |
 | au | 1.68 | 0.0670 | 2053.4 Hz |
 
+link to voice record: https://drive.google.com/drive/folders/1cnUdoMWktJepf7vQoTrNKb44O_2JKQsM?usp=sharing
+
 **b) Identity check — cosine similarity between reference SE and each generated clip's SE:**
 
 | Accent | Cosine Similarity to Reference |
