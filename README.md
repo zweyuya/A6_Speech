@@ -1,4 +1,4 @@
-# A6: Speech Processing — Submission
+# A6: Speech 
 
 **Student:** Zwe Yu Ya Kyaw Zin Oo (st125990)
 
@@ -138,7 +138,7 @@ In practice, my results fell short of that ideal: similarities clustered in the 
 ![CTC Greeding Decoding](figures/grid.png)
 
 ### CTC character error rate curve
-![CTC Error Curve](figures/error curve.png)
+![CTC Error Curve](figures/error_curve.png)
 ---
 
 ## Discussion
